@@ -31,6 +31,7 @@
   "sdk-python": "Python Quickstart",
   "sdk-tools": "Host Tools",
   "sdk-runtime": "Process & Failures",
+  "protocol": "Protocol Records",
   "reference-separator": { "title": "Reference", "type": "separator" },
   "cli": "CLI"
 }
