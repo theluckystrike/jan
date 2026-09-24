@@ -25,6 +25,12 @@
   "permissions": "Tool Permissions",
   "hooks": "Hooks",
   "mcp": "MCP",
+  "embedding-separator": { "title": "Embedding", "type": "separator" },
+  "sdk": "Agent SDK",
+  "sdk-ts": "JavaScript Quickstart",
+  "sdk-python": "Python Quickstart",
+  "sdk-tools": "Host Tools",
+  "sdk-runtime": "Process & Failures",
   "reference-separator": { "title": "Reference", "type": "separator" },
   "cli": "CLI"
 }
